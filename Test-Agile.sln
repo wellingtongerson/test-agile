@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-Agile.DecReprSenior", "Test-Agile.DecReprSenior\Test-Agile.DecReprSenior.csproj", "{5B4BB25E-CF21-4D3A-84A9-2377989FBBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-Agile.AdjacentPointsMinDistance", "Test-Agile.AdjacentPointsMinDistance\Test-Agile.AdjacentPointsMinDistance.csproj", "{65FB0992-FC5B-4A87-9EEA-1B3883B321D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B4BB25E-CF21-4D3A-84A9-2377989FBBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4BB25E-CF21-4D3A-84A9-2377989FBBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4BB25E-CF21-4D3A-84A9-2377989FBBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4BB25E-CF21-4D3A-84A9-2377989FBBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FB0992-FC5B-4A87-9EEA-1B3883B321D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FB0992-FC5B-4A87-9EEA-1B3883B321D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FB0992-FC5B-4A87-9EEA-1B3883B321D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FB0992-FC5B-4A87-9EEA-1B3883B321D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F36E45-27F6-4927-9529-0B96DFDE13B1}
+	EndGlobalSection
+EndGlobal
